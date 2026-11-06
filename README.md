@@ -46,7 +46,7 @@ cd extension && zip -r ../dist/play-console-dark-theme.zip . && cd ..
 
 ## Contact
 
-Found a screen that's still bright, or something broke? Email [playconsoledark.support@maksforge.com](mailto:playconsoledark.support@maksforge.com) or [open an issue](https://github.com/maksforge/play-console-dark-theme/issues).
+Found a screen that's still bright, or something broke? Email [playconsoledark.support@maksforge.com](mailto:playconsoledark.support@maksforge.com) or [open an issue](https://github.com/maks-sredniawa/play-console-dark-theme/issues).
 
 ## Support
 
