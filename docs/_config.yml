@@ -1,4 +1,4 @@
-remote_theme: maksforge/pages-theme
+remote_theme: maks-sredniawa/pages-theme
 plugins:
   - jekyll-remote-theme
 title: Dark Theme for Play Console

@@ -47,4 +47,4 @@ in the repository.
 
 ## Contact
 
-**playconsoledark.support@maksforge.com**, or <https://github.com/maksforge/play-console-dark-theme/issues>
+**playconsoledark.support@maksforge.com**, or <https://github.com/maks-sredniawa/play-console-dark-theme/issues>

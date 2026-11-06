@@ -43,7 +43,7 @@ It works in Chrome and other Chromium browsers that use the Chrome Web Store.
 
 Found a screen that's still bright, or something broke? Email
 **[playconsoledark.support@maksforge.com](mailto:playconsoledark.support@maksforge.com)**, or
-[open an issue](https://github.com/maksforge/play-console-dark-theme/issues).
+[open an issue](https://github.com/maks-sredniawa/play-console-dark-theme/issues).
 
 ## Free, with an optional tip
 
