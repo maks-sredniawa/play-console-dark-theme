@@ -7,6 +7,21 @@ html.pcd-on body {
   color-scheme: dark; /* dark scrollbars and native form controls */
 }
 
+/* The "Loading Google Play Console" splash ships a dark-mode variant it never
+   switches on. Use its colours; the splash styles it by ID, hence !important. */
+html.pcd-on body > [id^="console-splash-"] {
+  background-color: #131314 !important;
+}
+html.pcd-on body > [id^="console-splash-"] .loading-message {
+  color: #c4c7c5 !important;
+}
+html.pcd-on body > [id^="console-splash-"] .progress-bar {
+  background-color: #004a77 !important;
+}
+html.pcd-on body > [id^="console-splash-"] .first-indicator-inner {
+  border-color: #a8c7fa !important;
+}
+
 /* The "Google Play Console" logo is an SVG with dark grey text.
    Invert it, then rotate hues back so the coloured triangle keeps its colours. */
 html.pcd-on img.console-logo,
